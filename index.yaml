@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  robot-shop:
+  - apiVersion: v1
+    created: "2024-02-07T16:43:58.347386+05:30"
+    description: Sample micoservices application
+    digest: 6148682de3f0b1cb827e3e1ff7dcbd73b55118e83a7cdc79cfeb33f19e4b24a4
+    home: https://github.com/instana/robot-shop
+    name: robot-shop
+    urls:
+    - https://ashish-sarawad.github.io/helm-charts/robot-shop-1.1.0.tgz
+    version: 1.1.0
+generated: "2024-02-07T16:43:58.3447422+05:30"
